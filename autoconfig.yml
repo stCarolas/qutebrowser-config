@@ -11,7 +11,6 @@ settings:
       normal:
         b: set-cmd-text -s :buffer
   content.notifications:
-    https://2.kino.films1080.pro: false
     https://www.reddit.com: false
     https://www.youtube.com: false
   tabs.show:
